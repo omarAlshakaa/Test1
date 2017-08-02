@@ -1,0 +1,9 @@
+# include < iostream>
+using namespace std ; 
+void main ()
+{
+
+cout <"my name is : omar " ;
+cout<<"this is the first change i wanna do " ;
+
+}
